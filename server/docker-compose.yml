@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    image: your-dockerhub-username/easilyswadecsharp:latest
+    restart: unless-stopped
+    env_file:
+      - easilyswadecsharp-env
+    ports:
+      - "7045:80"
