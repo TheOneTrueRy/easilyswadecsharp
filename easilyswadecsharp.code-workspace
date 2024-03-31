@@ -29,6 +29,9 @@
       "titleBar.inactiveBackground": "#3da05999",
       "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#3da059"
+    "peacock.color": "#3da059",
+    "cSpell.words": [
+      "easilyswadecsharp"
+    ]
   }
 }
